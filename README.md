@@ -26,10 +26,8 @@ dependencies: [
 
 Or in Xcode: File → Add Package Dependencies → Enter repo URL
 
-## Building
+## Building From Source
 
-This package was built using:
+Want to compile WebRTC yourself? See the full **[Build Guide](GUIDE.md)** for step-by-step instructions.
 
-```bash
-./scripts/build-webrtc-ios.sh --branch branch-heads/6723
-```
+This package was built from `branch-heads/6723` using the process described in that guide.
